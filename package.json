@@ -1,0 +1,13 @@
+{
+  "name": "appmax-db-tunnel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "tunnel-ssh": "^4.1.4"
+  }
+}
